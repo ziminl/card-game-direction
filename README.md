@@ -5,5 +5,6 @@
 - camapin, pvp(rank)
 - chat/clan
 
+- customizatoion
 - 
 - automation? event? something unique
