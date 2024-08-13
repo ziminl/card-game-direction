@@ -4,3 +4,6 @@
 - tcg or full-card pool
 - camapin, pvp(rank)
 - chat/clan
+
+- 
+- automation? event? something unique
