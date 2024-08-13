@@ -2,5 +2,5 @@
 
 # draw io
 - tcg or full-card pool
-- camapin, pvp
+- camapin, pvp(rank)
 - 
