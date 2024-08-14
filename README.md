@@ -10,3 +10,4 @@
 - automation? event? something unique
 
 = balance 
+-shop or gacha
